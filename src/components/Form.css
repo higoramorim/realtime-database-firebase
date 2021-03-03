@@ -1,0 +1,20 @@
+.btn-Add-Todo{
+  width: 80px;
+  height: 60px;
+  padding: 10px 10px;
+  box-sizing: 10px;
+  background-color: #5F9EA0;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+.inputTodo{
+  width: 200px;
+  height: 50px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}

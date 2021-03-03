@@ -1,0 +1,25 @@
+.div-Todo{
+  border: 1px solid black;
+  width: 300px;
+  padding: 10px 10px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 40px;
+  background-color: #D3D3D3;
+  border-radius: 10px;
+}
+
+.btn-Todo{
+  width: 80px;
+  height: 40px;
+  padding: 10px 10px;
+  box-sizing: 10px;
+  background-color: #FFB6C1;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 8px;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
